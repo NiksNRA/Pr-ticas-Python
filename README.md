@@ -15,13 +15,10 @@ Este repositório contém um conjunto de exercícios práticos desenvolvidos em 
 ## 🧠 Sobre
 Este projeto foi criado para explorar os fundamentos da lógica de programação com Python e ao mesmo tempo aplicar conceitos como:
 
-Vetores binários para caracterização
-
-Distância Euclidiana como critério de semelhança
-
-Teoria dos conjuntos para modelagem de preferências ou atributos
-
-Ideal para estudantes e iniciantes em programação ou ciência de dados que desejam praticar lógica e começar a pensar vetorialmente.
+- Vetores binários para caracterização
+- Distância Euclidiana como critério de semelhança
+- Teoria dos conjuntos para modelagem de preferências ou atributos
+- Ideal para estudantes e iniciantes em programação ou ciência de dados que desejam praticar lógica e começar a pensar vetorialmente.
 
 ## 📁 Estrutura
 
